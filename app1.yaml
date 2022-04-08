@@ -31,3 +31,4 @@ spec:
     name: tcp
   selector:
     app: app1
+  type: LoadBalancer
