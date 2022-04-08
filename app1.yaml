@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: edhommee/app1:dev
+        image: edhommee/app1:dev-v2
         ports:
         - containerPort: 3006
 ---
